@@ -20,8 +20,8 @@ title: Renee # the main title
 
 tagline: back-end dev # it will display as the sub-title
 
+# A minimal, responsive and feature-rich Jekyll theme for technical writing.
 description: >- # used by seo meta and the atom feed
-  # A minimal, responsive and feature-rich Jekyll theme for technical writing.
   Renee's Tech Blog: Aspiring to be an Outstanding Back-End Developer
 
 # Fill in the protocol & hostname for your site.
