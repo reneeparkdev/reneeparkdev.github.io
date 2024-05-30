@@ -95,7 +95,7 @@ Docker version 24.0.6, build ed223bc
 ### **3. 함께 설치된 도커 컴포즈(Docker Compose) 버전 확인**
 
 ```shell
-docker --version
+docker-compose --version
 ```
 
 <details>
