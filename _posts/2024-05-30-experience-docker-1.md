@@ -5,7 +5,6 @@ date: 2024-05-30 11:00:00 +0800
 categories: [Skill, Docker]
 tags: [Docker, Mac]
 published: true
-pin: true
 ---
 
 안녕하세요, 여러분!
