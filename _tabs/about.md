@@ -12,7 +12,7 @@ Welcome to my blog! This is a space where I share development knowledge, skills,
 안녕하세요, 저는 3년차 백엔드 및 서버 개발자 Renee입니다.<br>
 Hi, I'm Renee, a backend and server developer with 3 years of experience.
 
-### **Skills**
+<!-- ### **Skills**
 #### **[경험 많음] Advanced**
 >
 **`Python`, `Django`, `Java`, `Spring`, `SQL`, `MySQL`, `Git`, `Github`, `Notion`**
@@ -26,9 +26,9 @@ Hi, I'm Renee, a backend and server developer with 3 years of experience.
 #### **[경험 적음] Basic**
 >
 **`Ruby`, `Docker`, `Github Actions`, `React`, `GCP`**
-{: .prompt-warning }
+{: .prompt-warning } -->
 
-<!-- ### **Skills**
+### **Skills**
 
 #### **[경험 많음] Advanced**
 <span class="badge badge-blue">Python</span>
@@ -58,7 +58,7 @@ Hi, I'm Renee, a backend and server developer with 3 years of experience.
 <span class="badge badge-orange">Docker</span>
 <span class="badge badge-orange">Github Actions</span>
 <span class="badge badge-orange">React</span>
-<span class="badge badge-orange">GCP</span> -->
+<span class="badge badge-orange">GCP</span>
 
 ### **Contact Options**
 - Email 
@@ -67,14 +67,14 @@ Hi, I'm Renee, a backend and server developer with 3 years of experience.
 - [X (Twitter)](https://twitter.com/reneeparkdev)
 
 ### **My Work**
-- Study Github
-: [https://github.com/rowanpark](https://github.com/rowanpark) `스터디용`
-: [https://github.com/devreneeb](https://github.com/devreneeb) `도전용`
-: [https://github.com/reneecore](https://github.com/reneecore) `(현)회사` `비공개 레파지토리` `잔디 구경 환영`
-: [https://github.com/pwr131008](https://github.com/pwr131008) `국비지원교육` `현재 사용 X`
+- Github
+: [https://github.com/reneeparkdev](https://github.com/reneeparkdev)
+: [https://github.com/devreneeb](https://github.com/devreneeb) `테스트용`
+: [https://github.com/reneecore](https://github.com/reneecore) `현 회사 비공개 레파지토리` `잔디 구경 환영`
+: [https://github.com/pwr131008](https://github.com/pwr131008) `국비지원교육`
 - Velog
-: [https://velog.io/@rowan/posts](https://velog.io/@reneedev/posts) `(신)벨로그` `아직 사용 X`
-: [https://velog.io/@rowan/posts](https://velog.io/@rowan/posts) `(구)벨로그` `현재 사용 X`
+: [https://velog.io/@rowan/posts](https://velog.io/@rowan/posts) `구 벨로그`
+: [https://velog.io/@rowan/posts](https://velog.io/@reneedev/posts) `신 벨로그` `오픈 준비중`
 
 ### **Thank You**
 제 웹사이트에 방문해주셔서 감사합니다! 유의미한 시간이었길 바라요. 피드백 환영!

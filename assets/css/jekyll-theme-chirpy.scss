@@ -4,3 +4,31 @@
 @import 'main';
 
 /* append your custom style below */
+
+/* 뱃지 기본 스타일 */
+.badge {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 2px;
+  border-radius: 5px; /* 라운드 직사각형 */
+  color: var(--text-color);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* 각 레벨에 따른 색상 */
+.badge-green {
+  background-color: var(--prompt-info-bg); /* 초록색 (경험 많음) */
+}
+
+.badge-blue {
+  background-color: var(--prompt-tip-bg); /* 파란색 (경험 있음) */
+}
+
+.badge-orange {
+  background-color: var(--prompt-warning-bg); /* 주황색 (경험 적음) */
+}
+
+.badge-gray {
+  background-color: #adadad; /* 주황색 (경험 적음) */
+}
