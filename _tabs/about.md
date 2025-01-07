@@ -31,34 +31,34 @@ Hi, I'm Renee, a backend and server developer with 3 years of experience.
 ### **Skills**
 
 #### **[경험 많음] Advanced**
-<span class="badge badge-blue">Python</span>
-<span class="badge badge-blue">Django</span>
-<span class="badge badge-blue">Java</span>
-<span class="badge badge-blue">Spring</span>
-<span class="badge badge-blue">SQL</span>
-<span class="badge badge-blue">MySQL</span>
-<span class="badge badge-blue">Git</span>
-<span class="badge badge-blue">Github</span>
-<span class="badge badge-blue">Notion</span>
+<span class="mybadge mybadge-blue">Python</span>
+<span class="mybadge mybadge-blue">Django</span>
+<span class="mybadge mybadge-blue">Java</span>
+<span class="mybadge mybadge-blue">Spring</span>
+<span class="mybadge mybadge-blue">SQL</span>
+<span class="mybadge mybadge-blue">MySQL</span>
+<span class="mybadge mybadge-blue">Git</span>
+<span class="mybadge mybadge-blue">Github</span>
+<span class="mybadge mybadge-blue">Notion</span>
 
 #### **[경험 있음] Intermediate**
-<span class="badge badge-green">C</span>
-<span class="badge badge-green">JavaScript</span>
-<span class="badge badge-green">Nginx</span>
-<span class="badge badge-green">uWSGI</span>
-<span class="badge badge-green">Gunicorn</span>
-<span class="badge badge-green">SSL/TLS</span>
-<span class="badge badge-green">Linux</span>
-<span class="badge badge-green">HTML5</span>
-<span class="badge badge-green">CSS3</span>
-<span class="badge badge-green">Thymeleaf</span>
+<span class="mybadge mybadge-green">C</span>
+<span class="mybadge mybadge-green">JavaScript</span>
+<span class="mybadge mybadge-green">Nginx</span>
+<span class="mybadge mybadge-green">uWSGI</span>
+<span class="mybadge mybadge-green">Gunicorn</span>
+<span class="mybadge mybadge-green">SSL/TLS</span>
+<span class="mybadge mybadge-green">Linux</span>
+<span class="mybadge mybadge-green">HTML5</span>
+<span class="mybadge mybadge-green">CSS3</span>
+<span class="mybadge mybadge-green">Thymeleaf</span>
 
 #### **[경험 적음] Basic**
-<span class="badge badge-orange">Ruby</span>
-<span class="badge badge-orange">Docker</span>
-<span class="badge badge-orange">Github Actions</span>
-<span class="badge badge-orange">React</span>
-<span class="badge badge-orange">GCP</span>
+<span class="mybadge mybadge-orange">Ruby</span>
+<span class="mybadge mybadge-orange">Docker</span>
+<span class="mybadge mybadge-orange">Github Actions</span>
+<span class="mybadge mybadge-orange">React</span>
+<span class="mybadge mybadge-orange">GCP</span>
 
 ### **Contact Options**
 - Email 
